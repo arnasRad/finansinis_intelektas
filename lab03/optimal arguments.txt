@@ -1,0 +1,40 @@
+
+# xauusd m10 data2 optimal arguments:
+#   period: 62,
+#   control ticks: 0;
+#   stop loss: 10;
+#   take profit: 10;
+#   bear open: -20,
+#   bear close: -80,
+#   bull open: -80,
+#   bull close: -80
+
+# xauusd m10 data1 optimal arguments:
+#   period: 131;
+#   control ticks: 0;
+#   stop loss: 10;
+#   take profit: 10;
+#   bear open: -20;
+#   bear close: -80;
+#   bull open: -50;
+#   bull close: -20
+
+# xagusd m10 data2 optimal arguments:
+#   period:  49;
+#   control ticks: 0;
+#   stop loss: 10;
+#   take profit: 10;
+#   bear open: -20;
+#   bear close: -20;
+#   bull open: -20;
+#   bull close: -20
+
+# usdrub m10 data2 optimal arguments:
+#   period:  32;
+#   control ticks: 0;
+#   stop loss: 10;
+#   take profit: 10;
+#   bear open: -80;
+#   bear close: -50;
+#   bull open: -80;
+#   bull close: -80
